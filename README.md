@@ -1,4 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aisakay/Finding-Similar-Items/blob/main/notebooks/Finding_Similar_Items_100K.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aisakay/Finding-Similar-Items/blob/main/notebooks/Finding_Similar_Items_100K.ipynb) First dataset of 100_000 rows.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aisakay/Finding-Similar-Items/blob/main/notebooks/Finding_Similar_Items_500K.ipynb) Second dataset of 500_000 rows.
 
 # Finding-Similar-Items
 The task is to implement a detector of pairs of similar abstract for scientific papers, using the abstract field in the arXiv dataset, published under the Public Domain license.
